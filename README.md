@@ -2,8 +2,7 @@
 *"No brain signal left unanswered"*  
 
 [![Demo Video](https://img.shields.io/badge/▶️_Clinical_Demo-Watch_Now-red)](https://drive.google.com/file/d/1edPEqpNOafQ3hIIFqfNFXzMfSM6Uznxq/view)  
- 
-![EpilepTrack Workflow](https://via.placeholder.com/1200x600?text=EEG+Acquisition→AI+Triage→Neurophysiologist+Validation)  
+   
 *Developed in collaboration with Tunisian neurophysiologist at Hôpital Farhat Hached*
 
 ---
